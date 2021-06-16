@@ -1,0 +1,17 @@
+*** Quiz result ***
+
+Name: OOP
+ID-STudent: 1951150078
+FULL-Name: le
+Group: km20
+BirthDay: 13/10/2000
+Duration: 15 (Minutes)
+Examinee: 1
+---
+Number of question: 5
+Number of answered questions: 5
+Total score: 2
+Begin at: 1:5:7
+End at: 1:5:31
+Total time: 0:24s (Minutes:Sec)
+

@@ -1,0 +1,17 @@
+*** Quiz result ***
+
+Name: OOP
+ID-STudent: khang
+FULL-Name: nei
+Group: s
+BirthDay: s
+Duration: 15 (Minutes)
+Examinee: 1
+---
+Number of question: 5
+Number of answered questions: 5
+Total score: 2
+Begin at: 20:54:40
+End at: 20:54:43
+Total time: 0:3s (Minutes:Sec)
+

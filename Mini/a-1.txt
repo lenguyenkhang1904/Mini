@@ -1,0 +1,17 @@
+*** Quiz result ***
+
+Name: OOP
+ID-STudent: 1
+FULL-Name: a
+Group: a
+BirthDay: a
+Duration: 15 (Minutes)
+Examinee: 1
+---
+Number of question: 5
+Number of answered questions: 5
+Total score: 0
+Begin at: 0:37:57
+End at: 0:38:0
+Total time: 1:3s (Minutes:Sec)
+

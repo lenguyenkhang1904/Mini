@@ -1,0 +1,17 @@
+*** Quiz result ***
+
+Name: TOEIC
+ID-STudent: 1951150072
+FULL-Name: khang
+Group: km19
+BirthDay: 19/4/2001
+Duration: 20 (Minutes)
+Examinee: 1
+---
+Number of question: 10
+Number of answered questions: 7
+Total score: 5
+Begin at: 12:35:28
+End at: 12:36:29
+Total time: 1:1s (Minutes:Sec)
+

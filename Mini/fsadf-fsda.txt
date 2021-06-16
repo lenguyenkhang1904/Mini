@@ -1,0 +1,17 @@
+*** Quiz result ***
+
+Name: OOP
+ID-STudent: fsda
+FULL-Name: fsadf
+Group: 12
+BirthDay: dsfsa
+Duration: 15 (Minutes)
+Examinee: 1
+---
+Number of question: 5
+Number of answered questions: 5
+Total score: 0
+Begin at: 20:40:1
+End at: 20:40:5
+Total time: 0:4s (Minutes:Sec)
+

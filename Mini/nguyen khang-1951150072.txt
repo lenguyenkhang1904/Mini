@@ -1,0 +1,17 @@
+*** Quiz result ***
+
+Name: TOEIC
+ID-STudent: 1951150072
+FULL-Name: nguyen khang
+Group: km19
+BirthDay: 19/4/2001
+Duration: 20 (Minutes)
+Examinee: 1
+---
+Number of question: 10
+Number of answered questions: 9
+Total score: 1
+Begin at: 22:16:52
+End at: 22:17:36
+Total time: 1:44s (Minutes:Sec)
+

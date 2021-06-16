@@ -1,0 +1,17 @@
+*** Quiz result ***
+
+Name: OOP
+ID-STudent: 1951150088
+FULL-Name: lam
+Group: 12/12/1233
+BirthDay: 12
+Duration: 15 (Minutes)
+Examinee: 1
+---
+Number of question: 5
+Number of answered questions: 5
+Total score: 0
+Begin at: 1:6:19
+End at: 1:6:24
+Total time: 0:5s (Minutes:Sec)
+

@@ -1,0 +1,17 @@
+*** Quiz result ***
+
+Name: OOP
+ID-STudent:  df
+FULL-Name: sadfsa
+Group:  df
+BirthDay: fsad
+Duration: 15 (Minutes)
+Examinee: 1
+---
+Number of question: 5
+Number of answered questions: 5
+Total score: 0
+Begin at: 21:24:31
+End at: 21:24:33
+Total time: 0:2s (Minutes:Sec)
+

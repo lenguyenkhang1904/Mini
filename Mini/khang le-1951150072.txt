@@ -1,0 +1,17 @@
+*** Quiz result ***
+
+Name: TOEIC
+ID-STudent: 1951150072
+FULL-Name: khang le
+Group: km20a
+BirthDay: 19/4/2001
+Duration: 20 (Minutes)
+Examinee: 1
+---
+Number of question: 10
+Number of answered questions: 9
+Total score: 0
+Begin at: 20:44:47
+End at: 20:46:29
+Total time: 2:42s (Minutes:Sec)
+

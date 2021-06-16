@@ -1,0 +1,17 @@
+*** Quiz result ***
+
+Name: TOEIC
+ID-STudent: a
+FULL-Name: 
+Group: a
+BirthDay: a
+Duration: 20 (Minutes)
+Examinee: 1
+---
+Number of question: 10
+Number of answered questions: 2
+Total score: 2
+Begin at: 20:56:39
+End at: 20:57:7
+Total time: 1:28s (Minutes:Sec)
+

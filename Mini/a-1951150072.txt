@@ -1,0 +1,17 @@
+*** Quiz result ***
+
+Name: OOP
+ID-STudent: 1951150072
+FULL-Name: a
+Group: b
+BirthDay: c
+Duration: 15 (Minutes)
+Examinee: 1
+---
+Number of question: 5
+Number of answered questions: 5
+Total score: 2
+Begin at: 0:54:21
+End at: 0:54:23
+Total time: 0:2s (Minutes:Sec)
+
